@@ -69,3 +69,23 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Basically everything else
+.idea
+.vscode
+AlienPlatformer
+/[Aa]ssets/3rd Party
+/[Aa]ssets/Animations
+/[Aa]ssets/Art
+/[Aa]ssets/Audio
+/[Aa]ssets/Enhanced Hierarchy
+/[Aa]ssets/JMO Assets
+/[Aa]ssets/Materials
+/[Aa]ssets/Physics Materials
+/[Aa]ssets/Prefabs
+/[Aa]ssets/Rendering
+/[Aa]ssets/Scenes
+/[Aa]ssets/TextMesh Pro
+/[Aa]ssets/*.meta
+ProjectSettings
+UserSettings

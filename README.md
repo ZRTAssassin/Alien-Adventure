@@ -1,9 +1,9 @@
 # Platformer
 A small, one level platformer project to learn the fundamentals of C# and gameplay programming.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://simmer.io/@ZRTAssassin/alien-adventure-project
 
-![alt tag](https://imgur.com/M8HfWUU)
+![Imgur](https://imgur.com/M8HfWUU.jpg)
 
 ## How It's Made:
 

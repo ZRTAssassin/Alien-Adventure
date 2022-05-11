@@ -1,4 +1,4 @@
-# Platformer
+# Alien Adventure
 A small, one level platformer project to learn the fundamentals of C# and gameplay programming.
 
 **Link to project:** https://simmer.io/@ZRTAssassin/alien-adventure-project

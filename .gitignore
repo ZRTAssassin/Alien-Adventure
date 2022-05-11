@@ -86,6 +86,6 @@ AlienPlatformer
 /[Aa]ssets/Rendering
 /[Aa]ssets/Scenes
 /[Aa]ssets/TextMesh Pro
-/[Aa]ssets/*.meta
+*.meta
 ProjectSettings
 UserSettings

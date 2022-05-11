@@ -17,7 +17,7 @@ public class Door : MonoBehaviour
 
     [ContextMenu("Open Door")]
 
-    public void Open() //ABSTRACTION
+    public void Open() 
     {
         _rendererMid.sprite = _openMid;
         _rendererTop.sprite = _openTop;

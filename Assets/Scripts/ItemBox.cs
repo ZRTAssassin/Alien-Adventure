@@ -1,20 +1,20 @@
 ﻿using UnityEngine;
 
-public class ItemBox : HittableFromBelow //INHERITANCE
+public class ItemBox : HittableFromBelow 
 {
     [SerializeField] GameObject _itemPrefab;
     [SerializeField] GameObject _item;
     [SerializeField] Vector2 _itemLaunchVelocity;
 
     bool _used;
-    protected override bool CanUse => _used == false; //ENCAPSULATION
+    protected override bool CanUse => _used == false; 
 
     void Start()
     {
         if (_item != null)
             _item.SetActive(false);
     }
-    protected override void Use() //POLYMORPHISM
+    protected override void Use() 
     {
         Debug.Log("Use() called");
         _item = Instantiate(_itemPrefab,

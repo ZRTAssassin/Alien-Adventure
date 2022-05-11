@@ -3,7 +3,7 @@ A small, one level platformer project to learn the fundamentals of C# and gamepl
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](https://imgur.com/a/Ez7M6Uh)
+![alt tag](https://imgur.com/M8HfWUU)
 
 ## How It's Made:
 

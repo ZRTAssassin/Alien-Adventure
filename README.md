@@ -9,7 +9,7 @@ A small, one level platformer project to learn the fundamentals of C# and gamepl
 
 **Tech used:** Unity & C#
 
-My learning was focused on making a simple, 1 level game game to learn the basics of programming in C#. 
+My learning was focused on making a simple, 1 level game to learn the basics of programming in C#. 
 
 ## Lessons Learned:
 
